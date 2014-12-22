@@ -1,7 +1,7 @@
 newsly
 ======
 
-Dashboard for reading news
+Dashboard for building a personal homepage
 
 * TODO: Externalise the links - https://github.com/badboy/teuxdeux/wiki/API
 * Consider using Dashing for this
