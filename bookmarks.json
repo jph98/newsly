@@ -1,0 +1,54 @@
+{
+    "me": [
+        "https://en.todoist.com/app?lang=en#agenda%2Foverdue%2C%20today"
+    ],
+    "slacker": [
+        "https://www.b3ta.com/"
+    ],
+    "games": [
+        "http://torinak.com/qaop/games",
+        "https://www.engadget.com",
+        "http://ign.com"
+    ],
+    "gamedesign": [
+        
+    ],
+    "gamereviews": [
+        "https://www.engadget.com/gaming/"
+    ],
+    "music": [
+        "http://www.hydrahead.com/"
+    ],
+    "blogs": [
+        "http://edgibbs.com/"
+    ],
+    "musictech": [
+        "https://www.basschat.co.uk/forum/69-effects-for-sale/",
+        "http://www.robchapman.tv/forum/forums/buy-sell/",
+        "http://www.thegearpage.net/board/forumdisplay.php?f=4",
+        "https://www.soundonsound.com/readersads?Cat=8"
+    ],
+    "phaser": [
+        "https://github.com/jph98/scripts/blob/master/phaser-notes.md"
+    ],
+    "tech": [
+        "https://www.interviewbit.com/courses/programming/",        
+        "https://slashdot.org/",
+        "http://news.ycombinator.com/news",
+        "http://techcrunch.com/",
+        "https://www.indiehackers.com/",
+        "https://lobste.rs/",
+        "http://www.theregister.co.uk/",
+        "http://stackoverflow.com/"
+
+    ],
+    "engmanagement": [
+        "http://randsinrepose.com/archives/the-rands-test/",
+    ],
+    "jobs": [
+        "http://workinstartups.com/"
+    ],
+    "learning": [
+        "https://www.coursera.org/programs/data-engineering-on-google-cloud-platform-oct-2018-1ckq4"
+    ]
+}
