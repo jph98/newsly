@@ -1,0 +1,95 @@
+{
+    "Technology": [
+        {
+            "url": "https://news.ycombinator.com/",
+            "description": "Hacker News"
+        },
+        {
+            "url": "http://www.reddit.com/r/programming/",
+            "description": "Reddit Programming"
+        },
+        {
+            "url": "https://lobste.rs/",
+            "description": "Lobsters"
+        },           
+        {
+            "url": "http://lambda-the-ultimate.org/",
+            "description": "Lambda the Ultimate"
+        },
+        {
+            "url": "http://www.theregister.co.uk/",
+            "description": "The Register"
+        }
+    ],
+    "Startups": [
+        {
+            "url": "http://techcrunch.com/",
+            "description": "TechCrunch"
+        },
+        {
+            "url": "https://angel.co/",
+            "description": "Startups"
+        },
+        {
+            "url": "http://techmeme.com/",
+            "description": "TechMeme"
+        },
+        {
+            "url": "http://slashdot.org/",
+            "description": "Slashdot"
+        },
+        {
+            "url": "http://techblog.netflix.com/",
+            "description": "Netflix Tech Blog"
+        },
+        {
+            "url": "http://nerds.airbnb.com/",
+            "description": "Airbnb Engineering"
+        }
+        
+    ],
+    "Gaming": [
+        {
+            "url": "http://www.ign.com/",
+            "description": "IGN"
+        },
+        {
+            "url": "http://www.retrocollect.com/",
+            "description": "Retro Collect"
+        }
+    ],
+    "Sound": [
+        {
+            "url": "http://www.cosm.co.nz/",
+            "description": "Tom Cosm"
+        },
+        {
+            "url": "http://www.kvraudio.com/",
+            "description": "KVR"
+        },
+        {
+            "url": "https://cycling74.com/",
+            "description": "MAX"
+        }
+    ],
+    "Music": [
+        {
+            "url": "http://www.allthatisheavy.com/",
+            "description": "All That Is Heavy"
+        },
+        {
+            "url": "http://www.pitchfork.com/",
+            "description": "Pitchfork"
+        }
+    ],    
+    "Goof": [
+        {
+            "url": "http://www.b3ta.com/",
+            "description": "B3TA"
+        },
+        {
+            "url": "http://www.funnyordie.com/",
+            "description": "Funny or Die"
+        }
+    ]
+}    

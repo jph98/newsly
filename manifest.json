@@ -1,0 +1,22 @@
+{
+  "name": "HW Simple Start Page",
+  "description": "Simple starting page for browsers",
+  "version": "0.1",
+  "author": "Jonathan Holloway",
+  "incognito": "split",
+  "permissions": [
+          "tabs",
+          "storage"
+        ],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+      "16": "fav/favicon-16x16.png",
+      "32": "fav/favicon-32x32.png",
+      "192": "fav/android-icon-192x192.png",
+      "512": "fav/android-icon-512x512.png"
+  },
+  "content_security_policy": "script-src 'self' https://www.googleapis.com/; object-src 'self'",
+  "manifest_version": 2
+}
