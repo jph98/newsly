@@ -19,24 +19,6 @@
         {
             "url": "http://www.theregister.co.uk/",
             "description": "The Register"
-        }
-    ],
-    "Startups": [
-        {
-            "url": "http://techcrunch.com/",
-            "description": "TechCrunch"
-        },
-        {
-            "url": "https://angel.co/",
-            "description": "Startups"
-        },
-        {
-            "url": "http://techmeme.com/",
-            "description": "TechMeme"
-        },
-        {
-            "url": "http://slashdot.org/",
-            "description": "Slashdot"
         },
         {
             "url": "http://techblog.netflix.com/",
@@ -46,7 +28,36 @@
             "url": "http://nerds.airbnb.com/",
             "description": "Airbnb Engineering"
         }
-        
+    ],
+    "Startups": [
+        {
+            "url": "http://techcrunch.com/",
+            "description": "TechCrunch"
+        },
+        {
+            "url": "http://crunchbase.com/",
+            "description": "Crunch Base"
+        },
+        {
+            "url": "http://seedrs.com/",
+            "description": "Seedrs"
+        },
+        {
+            "url": "https://angel.co/",
+            "description": "Angellist"
+        },        
+        {
+            "url": "https://www.startupdigest.com/",
+            "description": "Startup Digest"
+        },
+        {
+            "url": "http://techmeme.com/",
+            "description": "TechMeme"
+        },
+        {
+            "url": "http://slashdot.org/",
+            "description": "Slashdot"
+        }        
     ],
     "Gaming": [
         {

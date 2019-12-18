@@ -1,17 +1,13 @@
 # Start Page
 
-A simple start-page for Chrome.
+Newsly - a simple start-page for Chrome.
 
-* Display current time
+## Done
 
-## Ideas
 
-* Display quote
-* Display word of the day
-* Newsfeed
-* Personalise the new tab
-* Baackground with unsplash
+## TODO 
 
-https://medium.com/chingu/how-to-code-a-word-of-the-day-app-in-javascript-and-turn-it-into-a-chrome-extension-part-1-a5ef87134e85
-
-https://lifehacker.com/the-15-best-new-tab-extensions-for-google-chrome-fans-1832040696
+* Display word of the day (need endpoint)
+* Unsplash - one image per day
+* Cache the image of the day (decide on 2 x day?)
+* Detect the lightness of the background image and render overlay text accordingly - https://stackoverflow.com/questions/13762864/image-dark-light-detection-client-sided-script

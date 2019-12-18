@@ -1,5 +1,5 @@
 {
-  "name": "hw-start-page",
+  "name": "newsly",
   "version": "1.0.0",
   "description": "![Promo graphic](/img/fav/ms-icon-150x150.png)",
   "main": "index.js",
@@ -9,18 +9,11 @@
   "scripts": {
     "build": "babel --presets es2015 main.js -o main.bundle.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "http-server"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hawkins/start-page.git"
-  },
-  "author": "",
+    "start": "http-server",
+    "zip": "zip -r newsly.zip * -x '*node_modules*'"
+  },  
+  "author": "Jonathan Holloway",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hawkins/start-page/issues"
-  },
-  "homepage": "https://github.com/hawkins/start-page#readme",
   "dependencies": {
     "http-server": "0.12.0"
   }

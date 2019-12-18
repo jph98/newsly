@@ -10,12 +10,15 @@
     color: white;  
 }
 
-#background {
-    background-image: url('https://source.unsplash.com/random?city,night,space');
-    height: 100%; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+#quote {
+    font-family: 'Gelasio', serif; 
+    font-size: 20px;
+    color: white;  
+}
+
+#firstname {
+    opacity: 0.5;
+    max-width: 350px;
 }
 
 .cat-title {
